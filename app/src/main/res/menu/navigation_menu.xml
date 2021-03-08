@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:SwhoIn="navigation_view">
+
+    <item
+        android:id="@+id/nv_home"
+        android:icon="@drawable/ic_outline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nv_explore"
+        android:icon="@drawable/ic_outline_explore_24"
+        android:title="Explore"/>
+
+    <item
+        android:id="@+id/nv_acoount"
+        android:icon="@drawable/ic_outline_account_circle_24"
+        android:title="Account"/>
+
+    <item
+        android:id="@+id/nv_menu"
+        android:icon="@drawable/ic_outline_menu_24"
+        android:title="Menu"/>
+
+</menu>
